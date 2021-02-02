@@ -16,6 +16,8 @@ ShaiProperty uses architectural components like LiveData, ViewModel.
   - Saved Page
   - Me page
   
- ### Example
-<img src="/gif/shaiproperty_demo.gif" width="400" height="600"/>
+ ### Demo
+<img src="/gif/shaiproperty1.gif" width="400" height="600"/>
+
+<img src="/gif/shaiproperty2.gif" width="400" height="600"/>
 
