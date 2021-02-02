@@ -1,0 +1,595 @@
+{
+	"totalCount": 57235,
+	"nextPageToken": "null",
+	"items": [
+		{
+		"channels": ["sale"],
+		"kind": "property",
+		"id": "sale-6929140",
+		"shareLink": "https://www.iproperty.com.my/property/stonor-park-klcc-premium-6929140",
+		"title": "Stonor Park, Klcc",
+		"active": true,
+		"tier": 3,
+		"propertyType": "Condominium",
+		"prices": [{
+			"type": "sale",
+			"currency": "MYR",
+			"max": 2150000,
+			"min": 2150000
+		}],
+		"cover": {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/745c6fedb6f3478e810a4a6cbfaaad38.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/745c6fedb6f3478e810a4a6cbfaaad38.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/745c6fedb6f3478e810a4a6cbfaaad38.jpg"
+		},
+		"medias": [{
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/745c6fedb6f3478e810a4a6cbfaaad38.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/745c6fedb6f3478e810a4a6cbfaaad38.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/745c6fedb6f3478e810a4a6cbfaaad38.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/1fe35022dba94e5d85a2aaab0c376a6b.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/1fe35022dba94e5d85a2aaab0c376a6b.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/1fe35022dba94e5d85a2aaab0c376a6b.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/912235843f7840e5b16c425df8d785ce.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/912235843f7840e5b16c425df8d785ce.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/912235843f7840e5b16c425df8d785ce.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/bf523bae749c4e4ba098b4da935b3e7c.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/bf523bae749c4e4ba098b4da935b3e7c.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/bf523bae749c4e4ba098b4da935b3e7c.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a397c5fa325b461d8848a5c9041ff2f9.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a397c5fa325b461d8848a5c9041ff2f9.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/a397c5fa325b461d8848a5c9041ff2f9.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/9612bfabba4942399bf8aaeb96021499.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/9612bfabba4942399bf8aaeb96021499.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/9612bfabba4942399bf8aaeb96021499.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3f0798ab3d8347e0b044b3547d076c9f.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3f0798ab3d8347e0b044b3547d076c9f.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3f0798ab3d8347e0b044b3547d076c9f.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ff520a2bf39a4868b5715798ad486687.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ff520a2bf39a4868b5715798ad486687.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/ff520a2bf39a4868b5715798ad486687.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/f43663a7233f49949a4ad19d243dd4f3.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/f43663a7233f49949a4ad19d243dd4f3.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/f43663a7233f49949a4ad19d243dd4f3.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/f4801393d91849898d670c5a3c77cfbf.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/f4801393d91849898d670c5a3c77cfbf.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/f4801393d91849898d670c5a3c77cfbf.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a8bba51848cc4f2f847f1a872b7d7e9b.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a8bba51848cc4f2f847f1a872b7d7e9b.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/a8bba51848cc4f2f847f1a872b7d7e9b.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/4249d9e6a6d94a2eb7054b2c6b5e38f5.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/4249d9e6a6d94a2eb7054b2c6b5e38f5.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/4249d9e6a6d94a2eb7054b2c6b5e38f5.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3ec2a6e46bf941728fd329daeeaaa164.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3ec2a6e46bf941728fd329daeeaaa164.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3ec2a6e46bf941728fd329daeeaaa164.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/159b67b1cde647a895fea3dd7cd22b73.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/159b67b1cde647a895fea3dd7cd22b73.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/159b67b1cde647a895fea3dd7cd22b73.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/5811939ea93e422195409d1e7f96a68f.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/5811939ea93e422195409d1e7f96a68f.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/5811939ea93e422195409d1e7f96a68f.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ea0af129b277404683f92ee1e07ddad5.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ea0af129b277404683f92ee1e07ddad5.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/ea0af129b277404683f92ee1e07ddad5.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/5bd830e151604b199ed3a99b6c4cdb63.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/5bd830e151604b199ed3a99b6c4cdb63.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/5bd830e151604b199ed3a99b6c4cdb63.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3d6e0d4e88424390b20488bab414714d.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3d6e0d4e88424390b20488bab414714d.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3d6e0d4e88424390b20488bab414714d.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/6435f33ca9324b17b854510a0f5f1ab7.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/6435f33ca9324b17b854510a0f5f1ab7.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/6435f33ca9324b17b854510a0f5f1ab7.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/1536b18c54ee4d21ba15c7167772ede9.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/1536b18c54ee4d21ba15c7167772ede9.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/1536b18c54ee4d21ba15c7167772ede9.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a06f8499560f4ec0bc58de46ff035644.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a06f8499560f4ec0bc58de46ff035644.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/a06f8499560f4ec0bc58de46ff035644.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/50b024699c004710a383edc19d33b728.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/50b024699c004710a383edc19d33b728.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/50b024699c004710a383edc19d33b728.jpg"
+		}],
+		"updatedAt": "2019-05-09T05:16:00.000Z",
+		"publishedAt": "2019-05-09T05:15:42+00:00",
+		"address": {
+			"formattedAddress": "Jalan Stonor",
+			"lat": 3.15396,
+			"lng": 101.717755
+		},
+		"multilanguagePlace": {
+			"en-GB": {
+				"level1": "Kuala Lumpur",
+				"level2": "KLCC",
+				"level3": "Stonor Park"
+			}
+		},
+		"referenceCode": "UP6929140",
+		"attributes": {
+			"bathroom": "4",
+			"bedroom": "3+1",
+			"carPark": "2",
+			"builtUp": "2,314",
+			"landTitleType": "Residential",
+			"furnishing": "Partly Furnished",
+			"tenure": "Freehold",
+			"sizeUnit": "SQUARE_FEET"
+		},
+		"listers": [{
+			"id": "38377",
+			"type": "agent",
+			"name": "Carmen Chan",
+			"contact": {
+				"phones": [{
+					"label": "Mobile",
+					"number": "+60169130979"
+				}]
+			}
+		}],
+		"organisations": [{
+			"id": "1801",
+			"type": "agency",
+			"name": "Private Advertiser"
+		}]
+	},
+		{
+		"channels": ["sale"],
+		"kind": "property",
+		"id": "sale-6941671",
+		"shareLink": "https://www.iproperty.com.my/property/the-avare-klcc-premium-6941671",
+		"title": "The Avare, Kl City Centre, Klcc",
+		"active": true,
+		"tier": 3,
+		"propertyType": "Condominium",
+		"prices": [{
+			"type": "sale",
+			"currency": "MYR",
+			"max": 2800000,
+			"min": 2800000
+		}],
+		"cover": {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3de85242513e44b685913ee87cdc4984.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3de85242513e44b685913ee87cdc4984.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3de85242513e44b685913ee87cdc4984.jpg"
+		},
+		"medias": [{
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3de85242513e44b685913ee87cdc4984.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3de85242513e44b685913ee87cdc4984.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3de85242513e44b685913ee87cdc4984.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/0832181a3d354b2a89d31ec81e8421a4.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/0832181a3d354b2a89d31ec81e8421a4.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/0832181a3d354b2a89d31ec81e8421a4.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/faee45e3b7d64a3ca74ca5d30f395e63.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/faee45e3b7d64a3ca74ca5d30f395e63.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/faee45e3b7d64a3ca74ca5d30f395e63.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8d3d292236e74c7b8d4c04db0dc485ac.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8d3d292236e74c7b8d4c04db0dc485ac.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/8d3d292236e74c7b8d4c04db0dc485ac.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8fb18606f82844ad80e16cb34fb7b8de.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8fb18606f82844ad80e16cb34fb7b8de.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/8fb18606f82844ad80e16cb34fb7b8de.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/025a50f12ab645928e147bdaf39aef69.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/025a50f12ab645928e147bdaf39aef69.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/025a50f12ab645928e147bdaf39aef69.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/916f53d9a0e449ad83d11b97a5c60f79.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/916f53d9a0e449ad83d11b97a5c60f79.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/916f53d9a0e449ad83d11b97a5c60f79.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/186b678c477f4a4cab43e6fdfa55ab71.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/186b678c477f4a4cab43e6fdfa55ab71.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/186b678c477f4a4cab43e6fdfa55ab71.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ccc70f42ad414854910780a19c83f7d1.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ccc70f42ad414854910780a19c83f7d1.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/ccc70f42ad414854910780a19c83f7d1.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3820f07f4b204e44aafe4395612cfe5e.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3820f07f4b204e44aafe4395612cfe5e.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3820f07f4b204e44aafe4395612cfe5e.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/6820752b16664f4eacd2f22263d3d08b.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/6820752b16664f4eacd2f22263d3d08b.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/6820752b16664f4eacd2f22263d3d08b.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a89f06adb9b74003ad3fee7fbddd4961.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/a89f06adb9b74003ad3fee7fbddd4961.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/a89f06adb9b74003ad3fee7fbddd4961.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ad142e9ae46c433db8c4379bd038c35e.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/ad142e9ae46c433db8c4379bd038c35e.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/ad142e9ae46c433db8c4379bd038c35e.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/e3e79ac500654381be4688642aa58485.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/e3e79ac500654381be4688642aa58485.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/e3e79ac500654381be4688642aa58485.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/641ece5616594ad69df1599e8309fc06.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/641ece5616594ad69df1599e8309fc06.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/641ece5616594ad69df1599e8309fc06.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/5b64af7d0eef40b4be86261c50eb5880.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/5b64af7d0eef40b4be86261c50eb5880.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/5b64af7d0eef40b4be86261c50eb5880.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/c7f33a4ac50e45fbb74edce69c9b2015.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/c7f33a4ac50e45fbb74edce69c9b2015.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/c7f33a4ac50e45fbb74edce69c9b2015.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8791db8637e04ef1bd6c65e890033b49.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8791db8637e04ef1bd6c65e890033b49.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/8791db8637e04ef1bd6c65e890033b49.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3653bbc3400c4300b9d7d1ae7e302fc1.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/3653bbc3400c4300b9d7d1ae7e302fc1.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/3653bbc3400c4300b9d7d1ae7e302fc1.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/265715dad40a4a5a9aa06d0b66ea6bbc.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/265715dad40a4a5a9aa06d0b66ea6bbc.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/265715dad40a4a5a9aa06d0b66ea6bbc.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/7f1137f3522d45349a01dded8b17ed62.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/7f1137f3522d45349a01dded8b17ed62.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/7f1137f3522d45349a01dded8b17ed62.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8dc236bee5e54a97bbf29707ea28f52d.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/8dc236bee5e54a97bbf29707ea28f52d.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/8dc236bee5e54a97bbf29707ea28f52d.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/e384af7c450a4cf399a8b3f692e2568f.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/e384af7c450a4cf399a8b3f692e2568f.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/e384af7c450a4cf399a8b3f692e2568f.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/b52530e0dcff46968f9d6f7ce50a7cd5.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/b52530e0dcff46968f9d6f7ce50a7cd5.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/b52530e0dcff46968f9d6f7ce50a7cd5.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/b5915d7d413a47c6a3123ee331b2fa8f.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/b5915d7d413a47c6a3123ee331b2fa8f.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/b5915d7d413a47c6a3123ee331b2fa8f.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/332b6da26f884c149838603c83b92465.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/332b6da26f884c149838603c83b92465.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/332b6da26f884c149838603c83b92465.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/251e818c4a934124ab43500986b57eec.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/251e818c4a934124ab43500986b57eec.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/251e818c4a934124ab43500986b57eec.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/c4ea26ad97194edd87b52f1740f7497d.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/c4ea26ad97194edd87b52f1740f7497d.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/c4ea26ad97194edd87b52f1740f7497d.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/4a4bf1867c2f499daef404e30f002b03.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/4a4bf1867c2f499daef404e30f002b03.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/4a4bf1867c2f499daef404e30f002b03.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/0ef79c3ee2c0480f9c86ce97a711a4eb.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/0ef79c3ee2c0480f9c86ce97a711a4eb.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/0ef79c3ee2c0480f9c86ce97a711a4eb.jpg"
+		}],
+		"updatedAt": "2019-05-09T05:15:00.000Z",
+		"publishedAt": "2019-05-09T05:15:29+00:00",
+		"address": {
+			"formattedAddress": "Lorong Kuda off Jalan Tun Razak",
+			"lat": 3.155969,
+			"lng": 101.719062
+		},
+		"multilanguagePlace": {
+			"en-GB": {
+				"level1": "Kuala Lumpur",
+				"level2": "KLCC",
+				"level3": "The Avare"
+			}
+		},
+		"referenceCode": "UP6941671",
+		"attributes": {
+			"bathroom": "5",
+			"bedroom": "4+1",
+			"carPark": "3",
+			"builtUp": "3,800",
+			"landTitleType": "Residential",
+			"furnishing": "Partly Furnished",
+			"tenure": "Freehold",
+			"sizeUnit": "SQUARE_FEET"
+		},
+		"listers": [{
+			"id": "38377",
+			"type": "agent",
+			"name": "Carmen Chan",
+			"contact": {
+				"phones": [{
+					"label": "Mobile",
+					"number": "+60169130979"
+				}]
+			}
+		}],
+		"organisations": [{
+			"id": "1801",
+			"type": "agency",
+			"name": "Private Advertiser"
+		}]
+	},
+		{
+		"channels": ["sale"],
+		"kind": "property",
+		"id": "sale-7454127",
+		"shareLink": "https://www.iproperty.com.my/property/idaman-residence-klcc-premium-7454127",
+		"title": "Idaman Residence, Kl City Centre, Klcc",
+		"active": true,
+		"tier": 3,
+		"propertyType": "Condominium",
+		"prices": [{
+			"type": "sale",
+			"currency": "MYR",
+			"max": 1000000,
+			"min": 1000000
+		}],
+		"cover": {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/31a8bcdc59084379a3f13f96205443fc.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/31a8bcdc59084379a3f13f96205443fc.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/31a8bcdc59084379a3f13f96205443fc.jpg"
+		},
+		"medias": [{
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/31a8bcdc59084379a3f13f96205443fc.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/31a8bcdc59084379a3f13f96205443fc.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/31a8bcdc59084379a3f13f96205443fc.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/9b5d470e342845008b2b3b28309358ee.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/9b5d470e342845008b2b3b28309358ee.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/9b5d470e342845008b2b3b28309358ee.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/cc276294edc142caa42188a7d77d2cc7.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/cc276294edc142caa42188a7d77d2cc7.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/cc276294edc142caa42188a7d77d2cc7.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/332cbddeb67649ea8632133265e88745.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/332cbddeb67649ea8632133265e88745.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/332cbddeb67649ea8632133265e88745.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/839e5a40c8fd48edad1cb516c7e67d18.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/839e5a40c8fd48edad1cb516c7e67d18.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/839e5a40c8fd48edad1cb516c7e67d18.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/38377/274636e9ce064e6f9d6fc3cbcf12e16c.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/38377/274636e9ce064e6f9d6fc3cbcf12e16c.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/38377/274636e9ce064e6f9d6fc3cbcf12e16c.jpg"
+		}],
+		"updatedAt": "2019-05-09T05:14:00.000Z",
+		"publishedAt": "2019-05-07T08:19:50+00:00",
+		"address": {
+			"formattedAddress": "Jalan Law Yew Swee",
+			"lat": 3.156616,
+			"lng": 101.708714
+		},
+		"multilanguagePlace": {
+			"en-GB": {
+				"level1": "Kuala Lumpur",
+				"level2": "KLCC",
+				"level3": "Idaman Residence"
+			}
+		},
+		"referenceCode": "UP7454127",
+		"attributes": {
+			"bathroom": "2",
+			"bedroom": "2",
+			"carPark": "2",
+			"builtUp": "1,066",
+			"landTitleType": "Residential",
+			"furnishing": "Fully Furnished",
+			"tenure": "Freehold",
+			"sizeUnit": "SQUARE_FEET"
+		},
+		"listers": [{
+			"id": "38377",
+			"type": "agent",
+			"name": "Carmen Chan",
+			"contact": {
+				"phones": [{
+					"label": "Mobile",
+					"number": "+60169130979"
+				}]
+			}
+		}],
+		"organisations": [{
+			"id": "1801",
+			"type": "agency",
+			"name": "Private Advertiser"
+		}]
+	},
+		{
+		"channels": ["sale"],
+		"kind": "property",
+		"id": "sale-5305039",
+		"shareLink": "https://www.iproperty.com.my/property/bungalow-taman-tun-dr-ismail-premium-5305039",
+		"title": "Ttdi, Taman Tun, Athinahapan, Kl, Kuala Lumpur, Taman Tun Dr Ismail",
+		"active": true,
+		"tier": 3,
+		"propertyType": "Bungalow",
+		"prices": [{
+			"type": "sale",
+			"currency": "MYR",
+			"max": 5000000,
+			"min": 5000000
+		}],
+		"cover": {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/b5de8fa9ab7c4e8aa230e83d2aca8549.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/b5de8fa9ab7c4e8aa230e83d2aca8549.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/b5de8fa9ab7c4e8aa230e83d2aca8549.jpg"
+		},
+		"medias": [{
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/b5de8fa9ab7c4e8aa230e83d2aca8549.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/b5de8fa9ab7c4e8aa230e83d2aca8549.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/b5de8fa9ab7c4e8aa230e83d2aca8549.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/567a09b84cdc4864bbe3e5ef7c354f48.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/567a09b84cdc4864bbe3e5ef7c354f48.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/567a09b84cdc4864bbe3e5ef7c354f48.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/ef81c9e94b0f4f619d68605b01d9a17a.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/ef81c9e94b0f4f619d68605b01d9a17a.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/ef81c9e94b0f4f619d68605b01d9a17a.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/626b78bf82cc49c59fbbbeecedfa281d.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/626b78bf82cc49c59fbbbeecedfa281d.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/626b78bf82cc49c59fbbbeecedfa281d.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/761436c221c7480db2b7bec8e9d00c7e.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/761436c221c7480db2b7bec8e9d00c7e.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/761436c221c7480db2b7bec8e9d00c7e.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/f8c920ea6d834e999c80f946259aa6a1.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/f8c920ea6d834e999c80f946259aa6a1.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/f8c920ea6d834e999c80f946259aa6a1.jpg"
+		}, {
+			"type": "image",
+			"url": "https://pictures-my.ippstatic.com/realtors/images/640/32434/0e89bf301f454471a28f95a14e8bd3c1.jpg",
+			"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/640/32434/0e89bf301f454471a28f95a14e8bd3c1.jpg",
+			"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/640/32434/0e89bf301f454471a28f95a14e8bd3c1.jpg"
+		}],
+		"updatedAt": "2019-05-09T04:42:00.000Z",
+		"publishedAt": "2018-10-18T01:48:46+00:00",
+		"multilanguagePlace": {
+			"en-GB": {
+				"level1": "Kuala Lumpur",
+				"level2": "Taman Tun Dr Ismail"
+			}
+		},
+		"referenceCode": "UP5305039",
+		"attributes": {
+			"landArea": "6000",
+			"bathroom": "5",
+			"bedroom": "7+1",
+			"carPark": "3",
+			"builtUp": "5,500",
+			"landTitleType": "Residential",
+			"furnishing": "Fully Furnished",
+			"tenure": "Freehold",
+			"sizeUnit": "SQUARE_FEET"
+		},
+		"listers": [{
+			"id": "32434",
+			"type": "agent",
+			"name": "Mac Chia",
+			"license": "REN 22940",
+			"image": {
+				"type": "image",
+				"thumbnailUrl": "https://pictures-my.ippstatic.com/realtors/images/agent/4f61478e9ce84dd2820f985f3e6eac57.jpg",
+				"urlTemplate": "https://img.rea-asia.com/my-subsale/premium/${width}x${height}-${scale}/realtors/images/agent/4f61478e9ce84dd2820f985f3e6eac57.jpg"
+			},
+			"website": "https://www.iproperty.com.my/realestateagent/32434/Mac_Chia",
+			"contact": {
+				"phones": [{
+					"label": "Mobile",
+					"number": "+60182886616"
+				}]
+			}
+		}],
+		"organisations": [{
+			"id": "1849",
+			"type": "agency",
+			"name": "KLCT International Realty Sdn. Bhd. (Sri Hartamas)",
+			"color": "#3cb6ab",
+			"logo": {
+				"type": "image",
+				"url": "https://images-my.ippstatic.com/images/searchresult/agencybrandlogo/24236cd0f5b44d368a86cb3ae7c653e2.png",
+				"thumbnailUrl": "https://images-my.ippstatic.com/images/searchresult/agencybrandlogo/24236cd0f5b44d368a86cb3ae7c653e2.png"
+			}
+		}]
+	}
+	]
+}
