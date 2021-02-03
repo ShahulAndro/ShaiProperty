@@ -113,7 +113,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/llItemBody"
         app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:visibility="visible">
 
@@ -128,12 +128,11 @@
             android:id="@+id/bedRooms"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="1"
             android:textSize="14sp"
             android:textColor="@color/black"
             android:fontFamily="@font/museosans_300"
-            android:layout_toRightOf="@+id/ivBedRoom"
-            android:layout_marginLeft="8dp"
+            android:layout_toEndOf="@+id/ivBedRoom"
+            android:layout_marginStart="8dp"
             android:layout_marginTop="4dp"/>
 
         <ImageView
@@ -142,16 +141,15 @@
             android:layout_height="wrap_content"
             android:src="@drawable/ic_bathroom_24"
             android:scaleType="fitCenter"
-            android:layout_toRightOf="@+id/bedRooms"
-            android:layout_marginLeft="8dp"/>
+            android:layout_toEndOf="@+id/bedRooms"
+            android:layout_marginStart="8dp"/>
 
         <TextView
             android:id="@+id/bathRooms"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@+id/ivBathRoom"
-            android:layout_marginLeft="8dp"
-            android:text="1"
+            android:layout_toEndOf="@+id/ivBathRoom"
+            android:layout_marginStart="8dp"
             android:textSize="14sp"
             android:textColor="@color/black"
             android:fontFamily="@font/museosans_300"
@@ -163,16 +161,15 @@
             android:layout_height="wrap_content"
             android:src="@drawable/ic_car_24"
             android:scaleType="fitCenter"
-            android:layout_toRightOf="@+id/bathRooms"
-            android:layout_marginLeft="8dp"/>
+            android:layout_toEndOf="@+id/bathRooms"
+            android:layout_marginStart="8dp"/>
 
         <TextView
             android:id="@+id/carParking"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@+id/ivCarParking"
-            android:layout_marginLeft="8dp"
-            android:text="1"
+            android:layout_toEndOf="@+id/ivCarParking"
+            android:layout_marginStart="8dp"
             android:textSize="14sp"
             android:textColor="@color/black"
             android:fontFamily="@font/museosans_300"
@@ -184,9 +181,9 @@
             android:layout_height="wrap_content"
             android:src="@drawable/ic_star_24"
             android:scaleType="fitCenter"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
             android:layout_centerInParent="true"
-            android:layout_marginRight="16dp"/>
+            android:layout_marginEnd="16dp"/>
     </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

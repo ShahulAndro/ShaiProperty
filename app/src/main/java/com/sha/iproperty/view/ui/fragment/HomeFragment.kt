@@ -11,7 +11,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.google.android.material.tabs.TabLayout
 import com.sha.iproperty.R
-import com.sha.iproperty.view.adapter.NewsLifeCycleItemsAdapter
+import com.sha.iproperty.view.adapter.NewsLifeStyleItemsAdapter
 import com.sha.iproperty.viewmodel.NewsLifeCycleViewModel
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.view_lifestyle.*
@@ -48,7 +48,7 @@ class HomeFragment : Fragment() {
             newsHighlightDescription.text = it.first().description
             it.drop(0)
 
-            val adapter = NewsLifeCycleItemsAdapter()
+            val adapter = NewsLifeStyleItemsAdapter()
             adapter.setNewsLifeCycleItems(it)
             newsRecyclerView.adapter = adapter
         })
@@ -58,7 +58,7 @@ class HomeFragment : Fragment() {
             lifeStyleHighlightDescription.text = it.first().description
             it.drop(0)
 
-            val adapter = NewsLifeCycleItemsAdapter()
+            val adapter = NewsLifeStyleItemsAdapter()
             adapter.setNewsLifeCycleItems(it)
             lifeStyleRecyclerView.adapter = adapter
         })

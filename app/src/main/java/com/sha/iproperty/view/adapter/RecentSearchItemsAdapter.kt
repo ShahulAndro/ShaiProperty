@@ -12,7 +12,7 @@ class RecentSearchItemsAdapter : RecyclerView.Adapter<RecentSearchItemsAdapter.S
 
     private val items = mutableListOf<String>()
 
-    fun setNewsLifeCycleItems(suggestionList: List<String>) {
+    fun setRecentSearchItems(suggestionList: List<String>) {
         this.items.clear()
         this.items.addAll(suggestionList)
         notifyDataSetChanged()

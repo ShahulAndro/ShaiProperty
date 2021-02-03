@@ -15,7 +15,7 @@
         android:text="@string/lifestyle"
         android:textColor="@color/black"
         android:textSize="18sp"
-        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/museosans_500"/>
 

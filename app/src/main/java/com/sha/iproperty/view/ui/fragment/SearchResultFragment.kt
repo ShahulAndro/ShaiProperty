@@ -17,10 +17,6 @@ import kotlinx.android.synthetic.main.search_result_fragment.*
 
 class SearchResultFragment : Fragment() {
 
-    companion object {
-        const val tagFragment = "SearchResultFragment"
-    }
-
     private val viewModel: SearchResultViewModel by lazy {
         ViewModelProviders.of(this.requireActivity()).get(SearchResultViewModel::class.java)
     }
@@ -101,6 +97,10 @@ class SearchResultFragment : Fragment() {
             }
             isLoading = false
         })
+    }
+
+    companion object {
+        const val tagFragment = "SearchResultFragment"
     }
 
 }

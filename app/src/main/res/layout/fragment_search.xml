@@ -36,14 +36,15 @@
                     android:textColor="@color/black"
                     android:background="@null"
                     android:textSize="16sp"
-                    android:layout_toRightOf="@id/ivBackArrow"
+                    android:layout_toEndOf="@id/ivBackArrow"
                     android:gravity="center|left"
                     android:layout_marginTop="4dp"
-                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
                     android:imeOptions="actionSearch"
                     android:inputType="text"
                     android:focusable="true"
-                    android:fontFamily="@font/museosans_300"/>
+                    android:fontFamily="@font/museosans_300"
+                    android:autofillHints="" />
 
             </RelativeLayout>
 

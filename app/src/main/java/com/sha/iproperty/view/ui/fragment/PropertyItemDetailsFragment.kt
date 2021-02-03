@@ -18,12 +18,6 @@ import kotlinx.android.synthetic.main.view_propertydetails.*
 
 class PropertyItemDetailsFragment : Fragment() {
 
-    companion object {
-        const val tagFragment = "PropertyItemDetailsFragment"
-
-        fun newInstance() = PropertyItemDetailsFragment()
-    }
-
     private val viewModel: SearchResultViewModel by lazy {
         ViewModelProviders.of(this.requireActivity()).get(SearchResultViewModel::class.java)
     }
@@ -112,6 +106,10 @@ class PropertyItemDetailsFragment : Fragment() {
         val i = Intent(Intent.ACTION_VIEW)
         i.data = Uri.parse(url)
         startActivity(i)
+    }
+
+    companion object {
+        const val tagFragment = "PropertyItemDetailsFragment"
     }
 
 }

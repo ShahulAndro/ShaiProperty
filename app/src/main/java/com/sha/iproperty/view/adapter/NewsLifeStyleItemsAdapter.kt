@@ -10,7 +10,7 @@ import com.sha.iproperty.R
 import com.sha.iproperty.data.model.NewsLifeCycle
 import com.squareup.picasso.Picasso
 
-class NewsLifeCycleItemsAdapter : RecyclerView.Adapter<NewsLifeCycleItemsAdapter.NewsLifeCycleViewHolder>() {
+class NewsLifeStyleItemsAdapter : RecyclerView.Adapter<NewsLifeStyleItemsAdapter.NewsLifeCycleViewHolder>() {
 
     private val items = mutableListOf<NewsLifeCycle>()
 

@@ -6,8 +6,8 @@ import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.sha.iproperty.R
 import com.sha.iproperty.view.ui.fragment.HomeFragment
-import com.sha.iproperty.view.ui.fragment.MeFragment
-import com.sha.iproperty.view.ui.fragment.SavedFragment
+import com.sha.iproperty.view.ui.fragment.ProfileFragment
+import com.sha.iproperty.view.ui.fragment.SavedPropertyFragment
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,8 +19,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun initBottomNavigationView() {
         val homeFragment = HomeFragment()
-        val savedFragment = SavedFragment()
-        val meFragment = MeFragment()
+        val savedFragment = SavedPropertyFragment()
+        val meFragment = ProfileFragment()
 
         setCurrentFragment(homeFragment)
 

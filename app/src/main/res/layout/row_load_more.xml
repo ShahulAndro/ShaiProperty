@@ -23,8 +23,8 @@
             android:fontFamily="@font/museosans_500"
             android:textSize="14sp"
             android:layout_gravity="center_horizontal"
-            android:layout_toRightOf="@+id/progressBar"
-            android:layout_marginLeft="16dp"
+            android:layout_toEndOf="@+id/progressBar"
+            android:layout_marginStart="16dp"
             android:layout_centerInParent="true"/>
     </RelativeLayout>
 
